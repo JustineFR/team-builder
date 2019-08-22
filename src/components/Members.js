@@ -11,7 +11,8 @@
     },
     {
         name: "Marlene",
-        email: "elle@gmail.com",
+        email: "elle
+        @gmail.com",
         role: "Pastry chef"
     }
 ]
