@@ -27,6 +27,7 @@ function Form(props) {console.log("props: ", props)
                 value={input.name}
                 onChange={changeHandler}>
                 </input>
+
                 <input 
                 type="text"
                 name="email"
@@ -34,6 +35,7 @@ function Form(props) {console.log("props: ", props)
                 value={input.email}
                 onChange={changeHandler}>
                 </input>
+
                 <input 
                 type="text"
                 name="role"
@@ -41,7 +43,7 @@ function Form(props) {console.log("props: ", props)
                 value={input.role}
                 onChange={changeHandler}>
                 </input>
-                <button>Add</button>
+                <button className="button">Add</button>
             </form>
         </div>
     )

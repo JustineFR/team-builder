@@ -1,18 +1,18 @@
  const members = [
     {
         name: "Justine",
-        email: "email@me",
+        email: "moi@gmail.com",
         role: "Student"
     },
     {
         name: "Jeremy",
-        email: "email@you",
-        role: " entrepreneur"
+        email: "toi@gmail.com",
+        role: " Entrepreneur"
     },
     {
         name: "Marlene",
-        email: "email@yher",
-        role: "pastry chef"
+        email: "elle@gmail.com",
+        role: "Pastry chef"
     }
 ]
 
