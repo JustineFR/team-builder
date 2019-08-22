@@ -14,7 +14,7 @@ const addMember = member => {
 
   return (
     <div className="App">
-      <h2>Please fill this form</h2>
+      <h2>Please fill out this form</h2>
       <Form addMember={addMember}/>
       <div className="cards">
         {teamMember.map(person => <Card name={person.name} email={person.email} role={person.role}/> )} 
